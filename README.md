@@ -1,6 +1,7 @@
 <img src="./media/title.png"  height="400" width="800" alt="Vector Databases">
 
 # Advanced Chunking Strategies for Vector Databases
+[![Medium Article](https://img.shields.io/badge/Medium-Read%20Article-black?logo=medium)](https://medium.com/@subhashbs36/mastering-rag-advanced-chunking-strategies-for-vector-databases-b6e2cbb042d3)
 
 Chunking Illustration component in the RAG (Retrieval Augmented Generation) ecosystem, where text is split into manageable pieces that can be embedded into vector databases. This repository explores various chunking strategies based on research from ChromaDB and other sources to help you find the optimal approach for your RAG applications.
 
